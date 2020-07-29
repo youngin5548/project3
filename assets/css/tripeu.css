@@ -1,0 +1,32 @@
+* {margin: 0}
+#header img {
+    width: 100%;
+    display: block;
+}
+#explanation img{width: 100%}
+* {font-family: NotoSansCJKkr-Regular;}
+@font-face {font-family: 'NotoSansCJKkr-Regular';
+src: url("/fonts/NotoSansCJKkr-Regular.otf") format('opentype');}
+body{background-color: #e1edfb}
+
+video {width: 72%;}
+.concept{margin-top: 50px}
+.btn{width: 16%; padding-left: 42%;}
+.btn img{width: 100%}
+.monitor{position: relative}
+.play {
+    position: absolute;
+    /* width: 50%; */
+    top: 22%;
+    left: 22%;
+    /* right: 0; */
+    /* margin: 0 auto; */}
+.play2 {
+    position: absolute;
+    /* width: 50%; */
+    top: 16%;
+    left: 21.9%;
+    /* right: 0; */
+    /* margin: 0 auto; */
+}
+
