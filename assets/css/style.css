@@ -1554,6 +1554,16 @@ li .single_team_text p{
 
 @media (max-width:770px) {
     #feature .col-sm-3{width: 100%}
+    .single_portfolio {
+    position: relative;
+    margin-bottom: 5% !important;
+    margin-left: 15% !important;
+}
+.scale-anm {
+    margin: 0px;
+    width: 70% !important;
+    /* margin-bottom: -6px; */
+}
 }
 
 
