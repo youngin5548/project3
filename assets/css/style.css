@@ -1042,7 +1042,7 @@ button.btn-md:hover {
                     counter section css
 =======================================================================*/
 .counter{
-    background: url(../images/counterbg.jpg) no-repeat top center;
+    background: url(../images/river.jpg) no-repeat center center;
     background-size: cover;
 }
 .counter .main_counter_area{
