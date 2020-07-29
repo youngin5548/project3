@@ -1536,6 +1536,18 @@ li .single_team_text p{
 
 
 
+@media (max-width:991px) {
+    .main_clogo .col-sm-3 {
+    width: 100% !important;
+    padding: 10px;}
+}
+
+@media (max-width:770px) {
+    #feature .col-sm-3{width: 100%}
+}
+
+
+
 
 
 
