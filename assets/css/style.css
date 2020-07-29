@@ -585,7 +585,7 @@ input::-ms-input-placeholder {
 .main_menu_bg .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus{
     color: #C4DDF2;
     font-weight: bold;
-    padding-bottom: 22px;
+    padding-bottom: 10px;
     border-bottom: 1px solid #C4DDF2;
     background: transparent;
 
@@ -1553,7 +1553,7 @@ li .single_team_text p{
 }
 
 @media (max-width:770px) {
-    #feature .col-sm-3{width: 100%}
+    #feature .col-sm-3{width: 100%} 
     .single_portfolio {
     position: relative;
     margin-bottom: 5% !important;
